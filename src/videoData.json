@@ -1,0 +1,38 @@
+[
+    {
+        "url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v1.mp4",
+        "channel": "codedamn",
+        "description": "A simple tiktok video preview",
+        "song": "Your song name could go here",
+        "likes": 1337,
+        "messages": 98,
+        "shares": 22
+    },
+    {
+        "url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v2.mp4",
+        "channel": "codedamn",
+        "description": "Some long description for this video #nice #tiktok",
+        "song": "Another cool song",
+        "likes": 6141,
+        "messages": 81,
+        "shares": 136
+    },
+    {
+        "url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v3.mp4",
+        "channel": "codedamn",
+        "description": "Are you a codedamn 1337 member? Make sure to upgrade if you can :) Helps everyone.",
+        "song": "Very cool song",
+        "likes": 321,
+        "messages": 4,
+        "shares": 15
+    },
+    {
+        "url": "https://github.com/codedamn-classrooms/tiktok-react-material/raw/main/v4.mp4",
+        "channel": "codedamn",
+        "description": "Final description, woah, this works great",
+        "song": "Nice song name here",
+        "likes": 441,
+        "messages": 4,
+        "shares": 10
+    }
+]
